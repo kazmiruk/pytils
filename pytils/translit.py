@@ -40,8 +40,7 @@ TRANSTABLE = (
         (u"Ч", u"CH"),
         (u"Ш", u"Sh"),
         (u"Ш", u"SH"),
-        (u"Ы", u"Yi"),
-        (u"Ы", u"YI"),
+        (u"Ы", u"Y"),
         (u"Ю", u"Yu"),
         (u"Ю", u"YU"),
         (u"Я", u"Ya"),
@@ -80,7 +79,7 @@ TRANSTABLE = (
         (u"ц", u"ts"),
         (u"ч", u"ch"),
         (u"ш", u"sh"),
-        (u"ы", u"yi"),
+        (u"ы", u"y"),
         (u"ю", u"yu"),
         (u"я", u"ya"),
         # one-symbol replacements
